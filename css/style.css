@@ -1189,11 +1189,11 @@ ul.portfolio-image li .desc{
   transform: translateY(100%);
 }
 
-.LinkedIn{
+.GitHub{
   background: #969696;
   /*padding: 20px 0;*/
 }
-.LinkedIn a:after{
+.GitHub a:after{
   background-color: #000000;
 }
 .Email{
